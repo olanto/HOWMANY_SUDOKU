@@ -1,8 +1,6 @@
-# HOWMANY_SUDOKU
-this program count all possible sudoku grids.
-This program is design to recheck the result of 2005, Bertram Felgenhauer and Frazer Jarvis found 6670903752021072936960.
+This program to recheck the result of 2005, Bertram Felgenhauer and Frazer Jarvis found 6670903752021072936960.
 
-This program found this number, the fastest version is:
+This program rechecks this number, the fastest version is:
 
 
 ComputeAllSolution_HALF.java
