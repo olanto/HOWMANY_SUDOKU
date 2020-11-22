@@ -1,0 +1,8 @@
+Confinement 2.0 jour 24
+Fortunately, this is not the number of days that we will be confined!
+I had some time to spare, I resumed a program from 2005 and I was able to recheck the solution also found in 2005 by Bertram Felgenhauer and Frazer Jarvis. The program performed the calculation in 9 days. (more on https://github.com/olanto/HOWMANY_SUDOKU)
+-------------
+Heureusement, ce n'est pas le nombre de jours que nous serons confinés!
+J'avais un peu de temps à perdre, j'ai repris un programme de 2005 et j'ai pu revérifier la solution trouvée aussi en 2005 par Bertram Felgenhauer et Frazer Jarvis. Le programme a effectué le calcul en 9 jours. (plus sur https://github.com/olanto/HOWMANY_SUDOKU)
+
+#sudoku #sudokutime #number #math #maths #mathematics #mathematic #mathematik #mathematician #mathematicians #mathmemes #mathmeme #calculus
